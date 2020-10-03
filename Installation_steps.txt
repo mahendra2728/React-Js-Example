@@ -1,0 +1,56 @@
+
+React Setup
+
+
+1) Install npm create-react-app first using below command
+
+   npm install -g create-react-app
+   
+   
+2) Set Envt path for npm location 
+
+  i.e --> C:\Users\Nextenture\AppData\Roaming\npm
+  
+
+3)Check the versions of npm,node and create-react-app using below commands
+
+     create-react-app --versions
+	 npm --version
+	 node --version
+	 
+4)To create react application use below command
+
+    npx create-react-app app_name      --->  npx create-react-app myapp
+	
+  
+  It will take some times to setup all our project configuration.
+  
+5)Then Goto newly created folder and run this project using below commands
+
+      npm start
+	  
+  It will compile and run our react app
+  
+  
+6)How to add Router in React use below command
+   
+   npm add react-router-dom
+   
+   
+7) How to add axios dependency on our project use below command
+
+   npm install axios
+
+8) How to add bootstrap support in React App
+
+   npm install bootstrap --save
+     
+
+9)How to install Formik  in React App
+
+  npm i formik
+
+https://dev.to/javinpaul/50-core-java-interview-questions-with-answers-for-programmers-3bc
+  
+
+    
